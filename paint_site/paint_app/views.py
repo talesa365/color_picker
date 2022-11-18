@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.views import View
 
-from paint_app.forms import ColorPickerForm
+from paint_app.form import ColorPickerForm
 
 
 # Create your views here.
